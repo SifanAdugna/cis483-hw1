@@ -1,0 +1,3 @@
+CIS 483 Homework 1
+HTML and Git version control.
+created using terminal and VScode 
